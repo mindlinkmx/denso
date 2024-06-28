@@ -6,7 +6,7 @@
   "display": "minimal-ui",
   "Scope": "https://docs.denso.appmindlink.mx/",
   "id":"https://docs.denso.appmindlink.mx/",
-  "start_url": "/#!/inicio",
+  "start_url": "https://docs.denso.appmindlink.mx/",
   "icons": [
     {
       "src": "https://ucarecdn.com/554d3ecc-2271-462d-bbf1-c4f0a566d300/icon72x72.png",
